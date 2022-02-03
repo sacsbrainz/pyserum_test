@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 28 12:31:56 2021
-
-@author: mark
-"""
-
 import json
 import datetime
 from pyserum.connection import conn
